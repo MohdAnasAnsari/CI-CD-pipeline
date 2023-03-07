@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Phase5Project/src/main/java"/>
+	<classpathentry kind="src" path="Phase5Project/src/test/java"/>
+	<classpathentry kind="lib" path="Phase5Project/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="Phase5Project/target/classes"/>
+</classpath>
